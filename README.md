@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es el primer repositorio en Henry, dentro del módulo 2.
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde gibhub a nuestro escritorio local.
